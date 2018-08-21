@@ -61,7 +61,7 @@ textarea {
 }
 
 #myForm div {
-	display: -webkit-inline-box;
+	/* display: -webkit-inline-box; */
     border: 1px solid #eeeeee;
     margin: 20px auto;
 }
